@@ -4,7 +4,7 @@
 Hello my name is Colten Appleby and I am a recent graduate of the Flatiron School. Previously I was with WeWork's Construction Technology Studio studying and implementing Technology into all facets of the Construction Cycle. 
 
 ## Contact Information
-[LinkedIn](https://www.linkedin.com/in/colten-appleby/)
+[LinkedIn](https://www.linkedin.com/in/colten-appleby/) <br>
 <colten.appleby@gmail.com>
 
 ## GitHub Report Card
