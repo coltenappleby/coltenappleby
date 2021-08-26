@@ -5,6 +5,7 @@ Hello my name is Colten Appleby and I am a recent graduate of the Flatiron Schoo
 
 ## Contact Information
 [LinkedIn](https://www.linkedin.com/in/colten-appleby/)
+<colten.appleby@gmail.com>
 
 ## GitHub Report Card
 [![Colten's GitHub stats](https://github-readme-stats.vercel.app/api?username=coltenappleby)](https://github.com/anuraghazra/github-readme-stats)
