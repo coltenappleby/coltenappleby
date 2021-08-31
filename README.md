@@ -1,20 +1,3 @@
-# Colten Appleby
-
-## About
-Hello my name is Colten Appleby and I am a recent graduate of the Flatiron School. Previously I was with WeWork's Construction Technology Studio studying and implementing Technology into all facets of the Construction Cycle. 
-
-## Contact Information
-[LinkedIn](https://www.linkedin.com/in/colten-appleby/) <br>
-<colten.appleby@gmail.com>
-
-## GitHub Report Card
-[![Colten's GitHub stats](https://github-readme-stats.vercel.app/api?username=coltenappleby)](https://github.com/anuraghazra/github-readme-stats)
-
-## What I'm Working on Now
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coltenappleby&repo=frontend-splitlist)](https://github.com/coltenappleby/frontend-splitlist)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coltenappleby&repo=backend-splitlist)](https://github.com/coltenappleby/backend-splitlist)
-
-
 ##
 
 <h1 align="center">Hi 👋, I'm Colten Appleby</h1>
@@ -26,9 +9,13 @@ Hello my name is Colten Appleby and I am a recent graduate of the Flatiron Schoo
 
 - 📝 I regularly write articles on [https://colten-appleby.medium.com/](https://colten-appleby.medium.com/)
 
-- 💬 Ask me about **React, JavaScript, Rails**
+- 💬 Ask me about **JavaScript, React, Rails; Construction Technology**
 
 - 📫 How to reach me **colten.appleby@gmail.com**
+
+- 🔌 Connect with  me on [LinkedIn](https://www.linkedin.com/in/colten-appleby/)
+
+- 🎿 Other interests include **Skiing, Running, Baseball Statistics, Golf, Craft Beer** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,3 +30,13 @@ Hello my name is Colten Appleby and I am a recent graduate of the Flatiron Schoo
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coltenappleby&" alt="coltenappleby" /></p>
 
+
+## What I'm Working on Now
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coltenappleby&repo=frontend-splitlist)](https://github.com/coltenappleby/frontend-splitlist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coltenappleby&repo=backend-splitlist)](https://github.com/coltenappleby/backend-splitlist)
+
+## About
+Hello my name is Colten Appleby and I am a recent graduate of the Flatiron School. Previously I was with WeWork's Construction Technology Studio studying and implementing Technology into all facets of the Construction Cycle. 
+
+## GitHub Report Card
+[![Colten's GitHub stats](https://github-readme-stats.vercel.app/api?username=coltenappleby)](https://github.com/anuraghazra/github-readme-stats)
