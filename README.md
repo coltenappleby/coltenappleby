@@ -35,6 +35,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coltenappleby&repo=frontend-splitlist)](https://github.com/coltenappleby/frontend-splitlist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coltenappleby&repo=backend-splitlist)](https://github.com/coltenappleby/backend-splitlist)
 
+## What I'm Studying
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coltenappleby&repo=what-im-studying)](https://github.com/coltenappleby/what-im-studying)
+
 ## About
 Hello my name is Colten Appleby and I am a recent graduate of the Flatiron School. Previously I was with WeWork's Construction Technology Studio studying and implementing Technology into all facets of the Construction Cycle. 
 
