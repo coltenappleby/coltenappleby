@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Colten Appleby
-title: Integration Engineer
+title: Software Engineer
 email: colten.appleby@gmail.com
 website: www.appleby.dev
 
@@ -46,9 +46,8 @@ linkedin_username: colten-appleby
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-
-  I am most skilled in: <mark>Javascript</mark>, <mark>Python</mark> & <mark>skiing</mark>.
+about_content:  # this will include new lines to allow paragraphs
+  I'm a software engineer focused on building software that makes sense for the people who use it.  My strength lies in understanding and analyzing how users interact with technology. I am seeking a team where collaboration and innovative thinking are embraced, where we can challenge each other to further our skills, and where dedication to quality and the creation of exceptional products is a shared goal.
 
 content:
   - title: Experience # Title for the section
@@ -57,16 +56,46 @@ content:
       - layout: left
         title: Katalyst.DI
         link: https://katalystdi.com
-        # link_text: boringcompany.com
-        sub_title: Integration Engineer
-        caption: November 2021 - Present
-        quote: >
-          
+        link_text: katalystdi.com
+        sub_title: Data Engineer
+        caption: November 2021 - Present        
         description: | # this will include new lines to allow paragraphs
-          Designed and implemented bidirectional data pipelines that extract, transform, and load (ETL) data from Katalyst.DI`s construction supply chain platform, customer, and public sources utilizing Palantir Foundry
-          Built PySpark python transformations to transform raw data to backing datasets for robust ontological object sets to extract actionable intelligence
-          Facilitated data exchange across different systems including Autodesk BIM360, Procore, Google Sheets, Airtable, KDI platform, and Palantir Foundry
-          Developed NPM package for charts and graphs in React and d3.js. Built various components for KDI's web platform in React and TypeScript. Helped migrate the data microservice from Java Spring Boot to .NET
+          - Architected and executed bi-directional data pipelines that integrate customer, internal, and public data into Palantir Foundry, leveraging Python and native Foundry tools
+          - Transformed raw data into robust ontological object sets using PySpark python transformations enabling operational employees to utilize data for client presentations
+      - layout: left
+        sub_title: Full-Stack Developer
+        caption: November 2021 - Present        
+        description: | # this will include new lines to allow paragraphs
+          - Engineered 15 robust API endpoints employing REST and GraphQL paradigms using Java's Spring Boot, while also contributing significantly to a smooth transition towards a .NET microservice architecture
+          - Built React and TypeScript components for KDI's web platform, contributing to its functionality and user experience
+          - Developed a private NPM package for data visualization using React, Typescript and d3.js in Katalyst’s web platform
+      
+      - layout: left
+        title: WR Liggett LLC
+        sub_title: ERP Technology Integrator and Change Management
+        caption: January 2021 - November 2021        
+        description: | # this will include new lines to allow paragraphs
+          - Transformed and migrated a legacy PostgreSQL database to a new ERP system, effectively cleaning and converting the data into flat files for smooth transfer and integration
+          - Implementation of the Supply Chain and BoM modules of $2.0M SAP Business ByDesign ERP
+
+      - layout: left
+        title: WeWork
+        sub_title: ERP Systems Integration Project Manager
+        caption: November 2021 - Present        
+        description: | # this will include new lines to allow paragraphs
+          - Coordinated implementation of $1.0M SAP Business ByDesign ERP system for all areas of the business: supply chain, manufacturing, and financial systems of the pre-fabrication construction manufacturing facility
+          - Modeled supply chain projections and logistics analytics with python and excel for all North American projects 
+
+      - layout: left
+        sub_title: Construction Technology Lead
+        caption: November 2021 - Present        
+        description: | # this will include new lines to allow paragraphs
+          - Built python regression models to forecast material costs for WeWork’s North American construction spending
+          - Formed WeWork's Construction Technology Studio to help lower construction costs through data analytics, field technology, and Building Information Management (BIM). Helped build a team of 25 members
+          - Promoted from Intern to Associate to Lead. Survived multiple rounds of downsizing before the business was sold
+
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,22 +104,32 @@ content:
         title: Rensselaer Polytechnic Institute
         caption: 2014 - 2018
         sub_title: BSc Industrial Engineering
-        quote: >
-          Why not Change the World?
         description: | # this will include new lines to allow paragraphs
           Organizations: Varsity Cross-Country Team, Lambda Chi Alpha, Club Badminton
+      - layout: left
+        title: Georgia Institute of Technology
+        caption: Expected 2025
+        sub_title: Online Masters of Science in Computer Science - OMSCS
+      - layout: left
+        title: Flatiron Bootcamp
+        caption: 2021
+        sub_title:  Full Stack Web Development Coding Bootcamp (15 Weeks)
+        description: | # this will include new lines to allow paragraphs
+          Five group projects in JavaScript, Ruby on Rails, React, Ruby, HTML, CSS, & SQL
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in software and data engineering some of my other interests and hobbies are:
       - Baseball
+      - Craft Beer
       - Sabermetrics
       - Running
       - Skiing
       - Hiking
       - Photography
       - Travelling
+      - Pitch
 
 # Footer
 footer_show_references: true
