@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Colten Appleby</h1>
-<h3 align="center">I'm a software engineer focused on building software that makes sense for the people who use it. My strength lies in understanding and analyzing how users interact with technology. I am seeking a team where collaboration and innovative thinking are embraced, where we will challenge each other to further our skills, and where dedication to quality and the creation of exceptional products is a shared goal. I am looking for an in-person/hybrid position.</h3>
+<h3 align="center">I am a seasoned software engineer, and I specialize in developing user-centric products. My strength lies in understanding and analyzing user interactions with technology, ensuring that the end result meets their needs effectively. I am in search of a team that embraces collaboration and innovative thinking, where mutual challenges propel skill development, and a shared commitment to quality and exceptional products is the norm. I am seeking an in-person/hybrid position to contribute my skills to a dynamic and collaborative work environment.</h3>
 
-- 🔭 I’m currently working on **Machine Learning for Trading at Georgia Tech**
+- 🔭 I’m currently working on **Machine Learning for Trading at Georgia Tech** and [**MLB Arbitration Predictor**](https://github.com/coltenappleby/Arbitration-Prediction).
 
 - 🌱 I’m looking to work **at a fast-paced technology company**
 
-- 👨‍💻 All of my projects are available at [appleby.dev](appleby.dev)
+- 👨‍💻 Check out my portfolio [appleby.dev](https://appleby.dev/)
 
 - 📫 How to reach me **colten.appleby@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/coltenappleby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coltenappleby" height="30" width="40" /></a>
-<a href="https://instagram.com/colten_beers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="colten_beers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
