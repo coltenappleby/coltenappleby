@@ -47,8 +47,7 @@ linkedin_username: colten-appleby
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content:  # this will include new lines to allow paragraphs
-  I'm a software engineer focused on building software that makes sense for the people who use it.  My strength lies in understanding and analyzing how users interact with technology. I am seeking a team where collaboration and innovative thinking are embraced, where we can challenge each other to further our skills, and where dedication to quality and the creation of exceptional products is a shared goal.
-
+  I am a seasoned software engineer, and I specialize in developing user-centric products. My strength lies in understanding and analyzing user interactions with technology, ensuring that the end result meets their needs effectively. I am in search of a team that embraces collaboration and innovative thinking, where mutual challenges propel skill development, and a shared commitment to quality and exceptional products is the norm. I am seeking an in-person/hybrid position to contribute my skills to a dynamic and collaborative work environment.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -57,44 +56,45 @@ content:
         title: Katalyst.DI
         link: https://katalystdi.com
         link_text: katalystdi.com
-        sub_title: Data Engineer
-        caption: November 2021 - Present        
+        sub_title: Software Engineer
+        caption: November 2021 - December 2023        
         description: | # this will include new lines to allow paragraphs
-          - Architected and executed bi-directional data pipelines that integrate customer, internal, and public data into Palantir Foundry, leveraging Python and native Foundry tools
-          - Transformed raw data into robust ontological object sets using PySpark python transformations enabling operational employees to utilize data for client presentations
-      - layout: left
-        sub_title: Full-Stack Developer
-        caption: November 2021 - Present        
-        description: | # this will include new lines to allow paragraphs
-          - Engineered 15 robust API endpoints employing REST and GraphQL paradigms using Java's Spring Boot, while also contributing significantly to a smooth transition towards a .NET microservice architecture
-          - Built React and TypeScript components for KDI's web platform, contributing to its functionality and user experience
-          - Developed a private NPM package for data visualization using React, Typescript and d3.js in Katalyst’s web platform
+          - Spearheaded development of the real-time responsive notification system with React and TypeScript components for KDI's web platform, contributing to its functionality and user experience
+          - Engineered 15 robust API endpoints employing REST and GraphQL paradigms with Java Spring Boot for package grouping, notification system, and the supplier performance dashboard
+          - Designed and implemented a private NPM package for data visualization of complex construction schedules, lead times, and pricing for customer products using React, Typescript and d3.js; enabling rapid development of new and useful business intelligence features for end users
+          - Architected and executed bi-directional data pipelines that integrate customer, internal, and public data into Palantir Foundry, leveraging Python, SQL, and native Foundry tools
+          - Transformed raw data into robust ontological object sets using PySpark Python transformations centered around large scale construction projects
+      # - layout: left
+      #   sub_title: Full-Stack Developer
+      #   caption: November 2021 - Present        
+      #   description: | # this will include new lines to allow paragraphs
+      #     - Engineered 15 robust API endpoints employing REST and GraphQL paradigms using Java's Spring Boot, while also contributing significantly to a smooth transition towards a .NET microservice architecture
+      #     - Built React and TypeScript components for KDI's web platform, contributing to its functionality and user experience
+      #     - Developed a private NPM package for data visualization using React, Typescript and d3.js in Katalyst’s web platform
       
       - layout: left
         title: WR Liggett LLC
         sub_title: ERP Technology Integrator and Change Management
         caption: January 2021 - November 2021        
         description: | # this will include new lines to allow paragraphs
-          - Transformed and migrated a legacy PostgreSQL database to a new ERP system, effectively cleaning and converting the data into flat files for smooth transfer and integration
-          - Implementation of the Supply Chain and BoM modules of $2.0M SAP Business ByDesign ERP
+          - Orchestrated the transformation and migration of a legacy PostgreSQL database to a new ERP system, ensuring seamless data transfer and integration. The process involved meticulous data cleaning and conversion techniques
+          - Successfully implemented the Supply Chain and Bill of Materials (BoM) modules of a $32M SAP Business ByDesign ERP, contributing to the overall efficiency of the company's operations
 
       - layout: left
         title: WeWork
         sub_title: ERP Systems Integration Project Manager
-        caption: November 2021 - Present        
+        caption: January 2020 - December 2020        
         description: | # this will include new lines to allow paragraphs
-          - Coordinated implementation of $1.0M SAP Business ByDesign ERP system for all areas of the business: supply chain, manufacturing, and financial systems of the pre-fabrication construction manufacturing facility
-          - Modeled supply chain projections and logistics analytics with python and excel for all North American projects 
+          - Implementation of $20M SAP Business ByDesign ERP system for all areas of the business: supply chain, manufacturing, and financial systems of the pre-fabrication construction manufacturing facility
+          - Modeled supply chain projections and logistics analytics with Python modeling for all North American projects. Presented to Director of Construction Technology and Director of Manufacturing Technology
 
       - layout: left
         sub_title: Construction Technology Lead
-        caption: November 2021 - Present        
+        caption: May 2017 - January 2020        
         description: | # this will include new lines to allow paragraphs
           - Built python regression models to forecast material costs for WeWork’s North American construction spending
           - Formed WeWork's Construction Technology Studio to help lower construction costs through data analytics, field technology, and Building Information Management (BIM). Helped build a team of 25 members
           - Promoted from Intern to Associate to Lead. Survived multiple rounds of downsizing before the business was sold
-
-
 
 
   - title: Education # Title for the section
@@ -110,6 +110,8 @@ content:
         title: Georgia Institute of Technology
         caption: Expected 2025
         sub_title: Online Masters of Science in Computer Science - OMSCS
+        description: |
+          Relevant Classes: Machine Learning for Trading, Machine Learning (Spring 2024)
       - layout: left
         title: Flatiron Bootcamp
         caption: 2021
@@ -122,10 +124,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in software and data engineering some of my other interests and hobbies are:
       - Baseball
-      - Craft Beer
       - Sabermetrics
-      - Running
       - Skiing
+      - Craft Beer
+      - Running
       - Hiking
       - Photography
       - Travelling
