@@ -46,24 +46,36 @@ linkedin_username: colten-appleby
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content:  # this will include new lines to allow paragraphs
-  I am a seasoned software engineer, and I specialize in developing user-centric products. My strength lies in understanding and analyzing user interactions with technology, ensuring that the end result meets their needs effectively. I am in search of a team that embraces collaboration and innovative thinking, where mutual challenges propel skill development, and a shared commitment to quality and exceptional products is the norm. I am seeking an in-person/hybrid position to contribute my skills to a dynamic and collaborative work environment.
+about_content: | # this will include new lines to allow paragraphs
+  I am a seasoned software engineer, and I specialize in developing user-centric products. 
+  My strength lies in understanding and analyzing user interactions with technology, ensuring that the end result meets their needs effectively. 
+  I am in search of a team that embraces collaboration and innovative thinking, where mutual challenges propel skill development, and a shared commitment to quality and exceptional products is the norm. 
+  I am seeking an in-person/hybrid position to contribute my skills to a dynamic and collaborative work environment.
+  The things that I currently have the most experience working with are:   
+  <mark>ES6 Javascript</mark>,
+  <mark>React</mark>,
+  <mark>Python</mark>,
+  <mark>Java Spring Boot</mark>,
+  <mark>PostgreSQL</mark>, and
+  <mark>git</mark>.
+
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Katalyst.DI
+        border: weak
+        title: Katalyst Digital Infrastructure
         link: https://katalystdi.com
         link_text: katalystdi.com
-        sub_title: Software Engineer
+        sub_title: Data Engineer to Software Engineer
         caption: November 2021 - December 2023        
         description: | # this will include new lines to allow paragraphs
-          - Spearheaded development of the real-time responsive notification system with React and TypeScript components for KDI's web platform, contributing to its functionality and user experience
-          - Engineered 15 robust API endpoints employing REST and GraphQL paradigms with Java Spring Boot for package grouping, notification system, and the supplier performance dashboard
-          - Designed and implemented a private NPM package for data visualization of complex construction schedules, lead times, and pricing for customer products using React, Typescript and d3.js; enabling rapid development of new and useful business intelligence features for end users
-          - Architected and executed bi-directional data pipelines that integrate customer, internal, and public data into Palantir Foundry, leveraging Python, SQL, and native Foundry tools
-          - Transformed raw data into robust ontological object sets using PySpark Python transformations centered around large scale construction projects
+          Spearheaded frontend (React) and backend (Java Spring Boot) development of responsive notification system for project permissions. Partnered with the Project Manager to enhance user experience and technical processes.  Reduced user time by ~60%. 
+          Built 15 Java Spring Boot API endpoints (REST & GraphQL) for project grouping, notifications, permissions, and mass data onboarding.
+          Designed and developed a private NPM package (React, Typescript) for visualizing and planning $500 million in construction schedules. Data visualizations included Gantt Chart and Bar Charts.
+          Led data onboarding for construction teams of Fortune 100 hyperscalers. Aggregating over 30 TBs of data producing insights that lead to $50mm in savings. (Python, PySpark, Palantir Foundry)
+
       # - layout: left
       #   sub_title: Full-Stack Developer
       #   caption: November 2021 - Present        
@@ -73,29 +85,22 @@ content:
       #     - Developed a private NPM package for data visualization using React, Typescript and d3.js in Katalyst’s web platform
       
       - layout: left
+        border: weak
         title: WR Liggett LLC
         sub_title: ERP Technology Integrator and Change Management
         caption: January 2021 - November 2021        
         description: | # this will include new lines to allow paragraphs
-          - Orchestrated the transformation and migration of a legacy PostgreSQL database to a new ERP system, ensuring seamless data transfer and integration. The process involved meticulous data cleaning and conversion techniques
-          - Successfully implemented the Supply Chain and Bill of Materials (BoM) modules of a $32M SAP Business ByDesign ERP, contributing to the overall efficiency of the company's operations
+          Orchestrated the migration of a legacy PostgreSQL database to a new ERP system. Data cleaning and conversion with Python.
+          Implemented a $50mm SAP Business ByDesign ERP, contributing to the overall efficiency and organization of the company's operations.
 
       - layout: left
         title: WeWork
         sub_title: ERP Systems Integration Project Manager
         caption: January 2020 - December 2020        
         description: | # this will include new lines to allow paragraphs
-          - Implementation of $20M SAP Business ByDesign ERP system for all areas of the business: supply chain, manufacturing, and financial systems of the pre-fabrication construction manufacturing facility
-          - Modeled supply chain projections and logistics analytics with Python modeling for all North American projects. Presented to Director of Construction Technology and Director of Manufacturing Technology
-
-      - layout: left
-        sub_title: Construction Technology Lead
-        caption: May 2017 - January 2020        
-        description: | # this will include new lines to allow paragraphs
-          - Built python regression models to forecast material costs for WeWork’s North American construction spending
-          - Formed WeWork's Construction Technology Studio to help lower construction costs through data analytics, field technology, and Building Information Management (BIM). Helped build a team of 25 members
-          - Promoted from Intern to Associate to Lead. Survived multiple rounds of downsizing before the business was sold
-
+          Implemented a $20mm SAP Business ByDesign ERP system for the supply chain, manufacturing, and financial systems. Co-launched a 70 person manufacturing and prefabrication subsidiary. 
+          Developed and presented a model (python) of a $100 million supply chain to leadership, leading to successful implementation of staff leveling and a $5 million reduction in raw material spend.
+          Formed WeWork’s Construction Technology Studio to lower construction costs through data analytics, field technology, and Building Information Management (BIM). Built a team of 25 members. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
