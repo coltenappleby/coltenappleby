@@ -53,6 +53,13 @@ about_content: |
   <mark>git</mark>.
 
 content:
+  - title: Skills # Title for the section
+    layout: text
+    content: | # Markdown supported
+      <mark> </mark> | <mark> 
+      Proficient Languages: <mark>Python</mark> | <mark>React</mark> | <mark>JavaScript Java</mark> | <mark>Spring Boot</mark> | <mark>TypeScript</mark> | <mark>d3.js</mark> | <mark>Ruby</mark> | <mark>Ruby on Rails</mark> | <mark>Git (Github)</mark> | <mark>SQL</mark> | <mark>PostgreSQL</mark>
+      Software: <mark>Palantir Foundry</mark> | <mark>SAP ByDesign</mark> | <mark>QGIS</mark> | <mark>Revit</mark> | <mark>Navisworks</mark>
+      Technology: Machine Learning | REST | MVC | LEAN | ETL | Microservice Architecture
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     border: strong # Border between sections (none/weak/strong)
@@ -67,8 +74,8 @@ content:
         description: | # markdown supported after
           Spearheaded frontend (React) and backend (Java Spring Boot) development of responsive notification system for project permissions. Partnered with the Project Manager to enhance user experience and technical processes.  Reduced user time by ~60%. 
           
-          Built 15 Java Spring Boot API endpoints (REST & GraphQL) for project grouping, notifications, permissions, and mass data onboarding.
-          
+          Engineered and tested 15 Java Spring Boot API (REST & GraphQL) endpoints for package schedule tracking module. Track products from bidding through logistics and installation on-site. Iterative development with the client-facing service team. Drove 30% growth in customer acquisition. 
+
           Designed and developed a private NPM package (React, Typescript) for visualizing and planning $500 million in construction schedules. Data visualizations included Gantt Chart and Bar Charts.
           
           Led data onboarding for construction teams of Fortune 100 hyperscalers. Aggregating over 30 TBs of data producing insights that lead to $50mm in savings. (Python, PySpark, Palantir Foundry)
@@ -84,7 +91,7 @@ content:
       - layout: left
         border: weak
         title: WR Liggett LLC
-        sub_title: ERP Technology Integrator and Change Management
+        sub_title: ERP Technology Integrator
         caption: January 2021 - November 2021        
         description: | # markdown supported after
           Orchestrated the migration of a legacy PostgreSQL database to a new ERP system. Data cleaning and conversion with Python.
@@ -94,8 +101,10 @@ content:
       - layout: left
         title: WeWork
         sub_title: ERP Systems Integration Project Manager
-        caption: January 2020 - December 2020        
+        caption: May 2017 - December 2020        
         description: | # markdown supported after
+          Promoted from Intern to Analyst to Associate to Lead.
+
           Implemented a $20mm SAP Business ByDesign ERP system for the supply chain, manufacturing, and financial systems. Co-launched a 70 person manufacturing and prefabrication subsidiary. 
           
           Developed and presented a model (python) of a $100 million supply chain to leadership, leading to successful implementation of staff leveling and a $5 million reduction in raw material spend.
