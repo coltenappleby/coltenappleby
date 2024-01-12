@@ -56,9 +56,9 @@ content:
   - title: Skills # Title for the section
     layout: text
     content: | # Markdown supported
-      Proficient Languages: Python | React | JavaScript Java | Spring Boot | TypeScript | d3.js | Ruby | Ruby on Rails | Git (Github) | SQL | PostgreSQL
-      Software: Palantir Foundry | SAP ByDesign | QGIS | Revit | Navisworks
-      Technology: Machine Learning | REST | MVC | LEAN | ETL | Microservice Architecture
+      Proficient Languages: Python &#124 React &#124 JavaScript Java &#124 Spring Boot &#124 TypeScript &#124 d3.js &#124 Ruby &#124 Ruby on Rails &#124 Git (Github) &#124 SQL &#124 PostgreSQL
+      Software: Palantir Foundry &#124 SAP ByDesign &#124 QGIS &#124 Revit &#124 Navisworks
+      Technology: Machine Learning &#124 REST &#124 MVC &#124 LEAN &#124 ETL &#124 Microservice Architecture
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     border: strong # Border between sections (none/weak/strong)
