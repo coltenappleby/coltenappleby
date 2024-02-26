@@ -63,6 +63,15 @@ content:
     layout: list # Type of content section (list/text)
     border: strong # Border between sections (none/weak/strong)
     content:
+    - layout: left
+        border: weak
+        title: Solar Landscape
+        link: https://solarlandscape.com/
+        link_text: solarlandscape.com
+        sub_title: Software Engineer
+        caption:  2024 - Present        
+        description: | # markdown supported after
+
       - layout: left
         border: weak
         title: Katalyst Digital Infrastructure
