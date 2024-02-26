@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Colten Appleby</h1>
-<h3 align="center">I am a seasoned software engineer, and I specialize in developing user-centric products. My strength lies in understanding and analyzing user interactions with technology, ensuring that the end result meets their needs effectively. I am in search of a team that embraces collaboration and innovative thinking, where mutual challenges propel skill development, and a shared commitment to quality and exceptional products is the norm. I am seeking an in-person/hybrid position to contribute my skills to a dynamic and collaborative work environment.</h3>
+
+- I am building a data-oriented community solar organization at Solar Landscape.
 
 - 🔭 I’m currently working on **Machine Learning for Trading at Georgia Tech** and [**MLB Arbitration Predictor**](https://github.com/coltenappleby/Arbitration-Prediction).
-
-- 🌱 I’m looking to work **at a fast-paced technology company**
 
 - 👨‍💻 Check out my portfolio [appleby.dev](https://appleby.dev/)
 
