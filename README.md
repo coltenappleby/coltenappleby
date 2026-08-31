@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Colten Appleby</h1>
 
-- I am building a data-oriented community solar organization at [**@SolarLandscape**](https://github.com/solarlandscape).
+- I am building a data-oriented community solar organization at [**@SkyFusionAI**](https://www.skyfusion.ai/).
 
-- 🔭 I’m currently working on **Machine Learning for Trading at Georgia Tech** and [**MLB Arbitration Predictor**](https://github.com/coltenappleby/Arbitration-Prediction).
+- 🔭 I’m currently working on **6601: Artificial Intelligence** and [**MLB Arbitration Predictor**](https://github.com/coltenappleby/Arbitration-Prediction).
 
 - 👨‍💻 Check out my portfolio [appleby.dev](https://appleby.dev/)
 
