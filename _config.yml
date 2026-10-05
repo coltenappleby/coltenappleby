@@ -96,14 +96,11 @@ content:
         sub_title: Data Engineer to Software Engineer
         caption:  2021 - 2023        
         description: | # markdown supported after
-          Led data onboarding for Fortune 100 hyperscaler construction teams, turning 30+ TB into analytics that informed $50M in cost savings.
+          Led data onboarding for construction teams of Fortune 100 hyperscalers. Aggregating over 30 TBs of data producing insights that lead to $50mm in savings. (Python, PySpark, Palantir Foundry)
           
           Diagnosed permission-workflow friction with end users; shipped a notification system that cut task time 60%.
           
           Iterated with the client-facing service team on a schedule-tracking feature that drove a 30% increase in customer acquisition.
-          
-          Led data onboarding for construction teams of Fortune 100 hyperscalers. Aggregating over 30 TBs of data producing insights that lead to $50mm in savings. (Python, PySpark, Palantir Foundry)
-
 
       - layout: left
         border: weak
